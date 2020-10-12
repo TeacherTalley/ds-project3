@@ -23,6 +23,7 @@
     <ClInclude Include="ElementType.h" />
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="BSTArray.cpp" />
     <ClCompile Include="main.cpp" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
